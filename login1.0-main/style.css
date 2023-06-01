@@ -116,6 +116,7 @@ background: #00ff80c5;
 
 
 .textfield > label {
+  margin-top: 1vh;
   color: #f0ffffde;
   margin-bottom: 10px;
 }

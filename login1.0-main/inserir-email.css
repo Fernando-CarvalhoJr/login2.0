@@ -146,23 +146,6 @@ background: #00ff80c5;
   color: #f0ffff94;
 }
 
-/* --------------------/Esqueceu a Senha/-------------------- */
-
-.esqueceu-a-senha{
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  margin: 10px 100px;
-  color: #f0ffff;
-  text-decoration: none;
-}
-.esqueceu-a-senha:hover{
-  color: #f0ffff94;
-  text-decoration:underline;
-}
-
 /* --------------------/Botão Login/-------------------- */
 
 .recuperar{
@@ -176,7 +159,7 @@ background: #00ff80c5;
   outline: none;
   text-transform: uppercase;
   font-weight: 800;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   color: #201b2c;
   background: #00ff88;
   cursor: pointer;

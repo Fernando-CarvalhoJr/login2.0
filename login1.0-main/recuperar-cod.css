@@ -21,12 +21,12 @@ body * {
 /* --------------------/Imagem e Titulo do Login/-------------------- */
 
 .right-login > h1 {
-  margin-right: 4vw;
-  margin-top: 5vh;
+  text-align:center;
+  margin-right: 0vw;
+  margin-top: 7vh;
   width: 50%;
   font-size:50px;
   color: #77ffc0;
-  margin-left: 110px;
 }
 
 /* ---------------------------/Cadastro/---------------------------- */
@@ -168,7 +168,7 @@ background: #00ff80c5;
 .recuperar{
   display: flex;
   margin-top: 5vh;
-  height: 5vh;
+  height: 6vh;
   width: 100%;
   padding: 18px;
   border: none;
@@ -176,7 +176,7 @@ background: #00ff80c5;
   outline: none;
   text-transform: uppercase;
   font-weight: 800;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   color: #201b2c;
   background: #00ff88;
   cursor: pointer;
